@@ -1,0 +1,22 @@
+{
+  "name": "check-list",
+  "version": "1.0.0",
+  "description": "Check list app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IdenGit/check-list.git"
+  },
+  "keywords": [
+    "checklist"
+  ],
+  "author": "denis kainazarov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IdenGit/check-list/issues"
+  },
+  "homepage": "https://github.com/IdenGit/check-list#readme"
+}

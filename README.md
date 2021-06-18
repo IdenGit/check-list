@@ -1,2 +1,3 @@
-# check-list
-Check list app
+# Check List application
+
+Application for create and manage your checklists
